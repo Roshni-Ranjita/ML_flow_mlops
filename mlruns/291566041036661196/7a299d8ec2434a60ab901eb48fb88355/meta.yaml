@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Semester%203/MLOps/t1/mlruns/291566041036661196/7a299d8ec2434a60ab901eb48fb88355/artifacts
+end_time: 1758724120886
+entry_point_name: ''
+experiment_id: '291566041036661196'
+lifecycle_stage: active
+run_id: 7a299d8ec2434a60ab901eb48fb88355
+run_name: model_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758724117414
+status: 3
+tags: []
+user_id: roshn

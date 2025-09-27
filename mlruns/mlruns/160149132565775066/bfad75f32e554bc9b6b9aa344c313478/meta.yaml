@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160149132565775066/bfad75f32e554bc9b6b9aa344c313478/artifacts
+end_time: 1758982041712
+entry_point_name: ''
+experiment_id: '160149132565775066'
+lifecycle_stage: active
+run_id: bfad75f32e554bc9b6b9aa344c313478
+run_name: model_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758982037791
+status: 3
+tags: []
+user_id: roshn

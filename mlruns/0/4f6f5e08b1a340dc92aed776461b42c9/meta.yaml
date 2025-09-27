@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Semester%203/MLOps/t1/mlruns/0/4f6f5e08b1a340dc92aed776461b42c9/artifacts
+end_time: 1758723929053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6f5e08b1a340dc92aed776461b42c9
+run_name: stately-hawk-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758723924753
+status: 3
+tags: []
+user_id: roshn
